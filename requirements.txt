@@ -1,0 +1,7 @@
+flask
+twilio
+pandas
+numpy
+scikit-learn
+nltk
+joblib
